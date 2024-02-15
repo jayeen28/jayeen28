@@ -1,1 +1,1 @@
-  <img src="" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/jayeen28/jayeen28/main/Jayeen's%20LinkedIn%20Pro%20Cover.png" alt="Banner" width="100%">
